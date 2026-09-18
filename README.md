@@ -1,1 +1,2 @@
 # spiroj
+print= ("hello")
